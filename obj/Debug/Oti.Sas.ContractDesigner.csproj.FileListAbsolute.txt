@@ -1,0 +1,14 @@
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\bin\Debug\Oti.Sas.ContractDesigner.exe.config
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\bin\Debug\Oti.Sas.ContractDesigner.exe.manifest
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\bin\Debug\Oti.Sas.ContractDesigner.application
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\bin\Debug\Oti.Sas.ContractDesigner.exe
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\bin\Debug\Oti.Sas.ContractDesigner.pdb
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\bin\Debug\zlib.net.dll
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.frmContractDesigner.resources
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.Properties.Resources.resources
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.csproj.GenerateResource.Cache
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.TrustInfo.xml
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.exe.manifest
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.application
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.exe
+D:\Projects\Sas\Oti.Sas\Oti.Sas.ContractDesigner\obj\Debug\Oti.Sas.ContractDesigner.pdb
